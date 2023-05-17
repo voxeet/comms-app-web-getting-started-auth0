@@ -89,7 +89,7 @@ You should see your application running succesfully and only letting authenticat
 
 ## License
 
-This project is licensed under the MIT license. See the [LICENSE](LICENSE.txt) file for more info.
+This project is licensed under the CC0 1.0 Universal license. See the [LICENSE](LICENSE.txt) file for more info.
 
 ## Learn More
 
