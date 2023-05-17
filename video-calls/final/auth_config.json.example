@@ -1,0 +1,6 @@
+{
+    "DOMAIN": "Copy the domain name from Auth0 Dashboard",
+    "CLIENT_ID": "Copy the clientId name from Auth0 Dashboard",
+    "APP_KEY" : "Copy the App key in Dolby.io Communications & Media APIs",
+    "APP_SECRET" : "Copy the App secret in Dolby.io Communications & Media APIs"
+}
