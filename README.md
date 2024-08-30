@@ -1,3 +1,5 @@
+# :warning: This repository is no longer maintained :warning:
+
 # Dolby.io Communications Web SDK -- Getting Started with User Authentication using Auth0
 
 This starter project demonstrates the mechanics of making a Voice and Video Call with Dolby.io and allowing only authenticated users to access to your application using Auth0's Universal Login Page.
